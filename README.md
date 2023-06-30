@@ -25,11 +25,11 @@ The models are evaluated using accuracy score and F1 score metrics to measure th
 Results
 The accuracy and F1 scores achieved by the models are as follows:
 
-Decision Tree: Accuracy score = [Accuracy] and F1 score = [F1 Score]
-K-Nearest Neighbors (KNN): Accuracy score = [Accuracy] and F1 score = [F1 Score]
-Logistic Regression: Accuracy score = [Accuracy] and F1 score = [F1 Score]
-Support Vector Machines (SVM): Accuracy score = [Accuracy] and F1 score = [F1 Score]
-Random Forest: Accuracy score = [Accuracy]
-XGBoost: Accuracy score = [Accuracy] and F1 score = [F1 Score]
+Decision Tree: Accuracy score = 99.94% and F1 score = 0.825
+K-Nearest Neighbors (KNN): Accuracy score = 99.95% and F1 score = 0.8349
+Logistic Regression: Accuracy score = 99.91 and F1 score = 0.7027
+Support Vector Machines (SVM): Accuracy score = 99.93% and F1 score = [F1 Score]
+Random Forest: Accuracy score = 99.93%
+XGBoost: Accuracy score = 99.95% and F1 score = 0.8487
 Based on the evaluation, the XGBoost model achieves the highest accuracy score of 99.95%.
 
